@@ -29,10 +29,10 @@ function setup () {
     line(282, 210, 262, 210);
 
     /* top right line */
-    line(348, 250, 440, 210);
+    line(348, 250, 420, 210);
     /* leaf stem */
-    line(375, 240, 395, 240);
-    line(441, 210, 461, 210);
+    line(371, 240, 391, 240);
+    line(420, 210, 440, 210);
 
     /* bottom right line */
     line(271, 370, 400, 330);
@@ -54,8 +54,8 @@ function setup () {
     ellipse(268, 210, ellipseW, ellipseH);
 
     /* leaves on top right line */
-    ellipse(390, 240, ellipseW, ellipseH);
-    ellipse(455, 210, ellipseW, ellipseH);
+    ellipse(385, 240, ellipseW, ellipseH);
+    ellipse(435, 210, ellipseW, ellipseH);
 
     /* leaves on bottom right line */
     ellipse(315, 363, ellipseW, ellipseH);
