@@ -1,3 +1,7 @@
+/* Naila Lugardo-Pineda
+    01/19/2022
+    N220                */
+
 function setup () {
     createCanvas(800, 600);
     var tanOrange = "#eb8628";
