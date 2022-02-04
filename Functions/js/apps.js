@@ -1,3 +1,6 @@
+//Naila Lugardo
+//Feb 3, 2022
+//n220
 
 //Drawing Drawer
 function setup() {
